@@ -11,7 +11,7 @@
     "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs,.ts,.tsx,.cts,.mts --fix --ignore-path .gitignore"
   },
   "dependencies": {
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^4.0.0",
     "survey-core": "../../../../survey-library/packages/survey-core/build",
     "survey-vue3-ui": "../../../../survey-library/packages/survey-vue3-ui/build",
     "survey-creator-core": "../../survey-creator-core/build",
